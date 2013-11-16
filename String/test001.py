@@ -7,6 +7,10 @@ print(len(__author__))
 repeat = "*" * 50
 print(repeat)
 
+message = "Echo.."
+print(message*5)
+
+
 #if __author__ == 'lionel'
 #print("OK")
 #else
